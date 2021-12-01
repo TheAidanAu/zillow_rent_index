@@ -1,6 +1,9 @@
+# Spreadsheet #** still being uploaded for now
+# *.csv
+# *.numbers
+
+
 # History files
-*.csv
-*.numbers
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
