@@ -1,6 +1,8 @@
-# Spreadsheet #** still being uploaded for now
-# *.csv
-# *.numbers
+Spreadsheet
+*.csv
+*.xls
+*.xlsx
+*.numbers
 
 
 # History files
