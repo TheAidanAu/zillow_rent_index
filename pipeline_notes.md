@@ -31,6 +31,12 @@ We also anticipate that Jacob and/or Jordan will have our first cut of a random 
 
 #### Features
 
+see features.md
 
 #### Models
+
+one_year_one_model (ols)
+full_df_modeling (rf)
+
+
 
